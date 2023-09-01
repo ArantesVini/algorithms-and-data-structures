@@ -1,2 +1,7 @@
-# algorithms-and-data-structures
-Algorithms and Data Structures studies and pratice in different languages
+# Algorithm and Data Structures
+
+Studies and pratice in different languages
+
+# License
+
+This repository is under the [MIT LICENSE](LICENSE)

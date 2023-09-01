@@ -1,4 +1,4 @@
-# Algorithm and Data Structures
+# Algorithms and Data Structures
 
 Studies and pratice in different languages
 
